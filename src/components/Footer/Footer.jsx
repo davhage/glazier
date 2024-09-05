@@ -53,7 +53,7 @@ const SocialButton = ({
   )
 }
 
-const SmallCentered = () => {
+const Footer = () => {
   return (
     <Box
       bg={useColorModeValue('gray.50', 'gray.900')}
